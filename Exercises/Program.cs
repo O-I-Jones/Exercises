@@ -16,6 +16,9 @@ namespace Exercises
             Console.WriteLine("Runing Exercise 2...");
             Ex2.Exercise2("parts,traps,arts,rats,starts,tarts,rat,art,tar,tars,stars,stray");
 
+            Console.WriteLine("Runing Exercise 3...");
+            Ex3.Exercise3(5);
+
         }
     }
 }
