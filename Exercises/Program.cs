@@ -30,6 +30,11 @@ namespace Exercises
             Ex6.Exercise6("step on no pets");
             Ex6.Exercise6("book");
 
+            Console.WriteLine("\nRuning Exercise 7...");
+            Ex7.Exercise7(12);
+            Ex7.Exercise7(123);
+            Ex7.Exercise7(5000);
+
         }
     }
 }
