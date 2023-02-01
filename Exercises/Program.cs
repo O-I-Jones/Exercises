@@ -22,6 +22,9 @@ namespace Exercises
             Console.WriteLine("Runing Exercise 4...");
             Ex4.Exercise4(5);
 
+            Console.WriteLine("Runing Exercise 5...");
+            Ex5.Exercise5("hello world");
+
         }
     }
 }
