@@ -35,6 +35,11 @@ namespace Exercises
             Ex7.Exercise7(123);
             Ex7.Exercise7(5000);
 
+            Console.WriteLine("\nRuning Exercise 10...");
+            Ex10.Exercise10(6);
+            Ex10.Exercise10(11);
+            Ex10.Exercise10(15);
+
         }
     }
 }
