@@ -33,23 +33,7 @@ namespace Exercises
                     return false;
                 }
             }
-
             return true;
         }
     }
 }
-
-//def nextPrime(n):
-//    def isPrime(n):
-//        if n < 2:
-//            return False
-//        for i in range(2, n):
-//            if (n == 1) or(n % i == 0):
-//                return False
-
-//        return True
-//    found = False
-//    while not found:
-//    n += 1
-//        found = isPrime(n)
-//    return n
