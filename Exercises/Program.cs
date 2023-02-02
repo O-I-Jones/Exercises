@@ -35,6 +35,10 @@ namespace Exercises
             Ex7.Exercise7(123);
             Ex7.Exercise7(5000);
 
+            Console.WriteLine("\nRuning Exercise 8...");
+            Tuple<int, int> indices = Ex8.FindTwoSum(new List<int>() { 3, 1, 5, 7, 5, 9 }, 10);
+            Console.WriteLine("Found target sum at indices " + indices.Item1 + " and " + indices.Item2);
+
             Console.WriteLine("\nRuning Exercise 10...");
             Ex10.Exercise10(6);
             Ex10.Exercise10(11);
